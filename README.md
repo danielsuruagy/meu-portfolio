@@ -1,23 +1,21 @@
-# Meu Primeiro Site
+# Portfólio Pessoal  
 
-O projeto foi criado para praticar com HTML e CSS.
+Este repositório contém meu portfólio desenvolvido com **HTML5** e **CSS3**, apresentando minhas habilidades, experiências e formas de contato.  
 
-## 💻 Tecnologias
+## 💻 Tecnologias Utilizadas  
 
-- **HTML5**
-- **CSS3**  
+- **Front-end**: HTML5, CSS3  
+- **Ferramentas**: Git, GitHub  
 
-## 🎯 Objetivo
+## 🚀 Funcionalidades  
 
-- Criação de layouts responsivos 
-- Estruturação de conteúdo clara para apresentação de portfólio  
-- Integração de botões de acesso rápido às minhas redes sociais  
-- Experiência de usuário intuitiva e visual agradável  
+- Navegação entre páginas (Home e Sobre mim) 
+- Apresentação clara de habilidades técnicas 
+- Links diretos para redes sociais
+- Design responsivo, garantindo boa experiência em desktops, tablets e smartphones
 
-## 🚀 Funcionalidades
+## 🎯 Estrutura do Projeto  
 
-- **Home:** Apresentação pessoal com destaque visual e chamada de ação  
-- **Seção “Sobre mim”:** Breve resumo das habilidades e experiência  
-- **Botões de redes sociais:** Links diretos para Instagram, GitHub e LinkedIn  
-- **Layout responsivo:** Adaptável a desktop, tablet e dispositivos móveis  
-- **Design moderno:** Combinação de cores, tipografia e elementos gráficos que destacam o conteúdo  
+- **index.html** → Página inicial, com introdução e links para redes sociais  
+- **about.html** → Página "Sobre mim", com formação, experiência e tecnologias 
+- **assets/** → Pasta com estilos e imagens 
